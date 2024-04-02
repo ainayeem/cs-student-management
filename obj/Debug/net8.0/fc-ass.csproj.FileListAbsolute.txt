@@ -1,0 +1,17 @@
+E:\cc\ass\DotNet\fc-ass\fc-ass\bin\Debug\net8.0\fc-ass.exe
+E:\cc\ass\DotNet\fc-ass\fc-ass\bin\Debug\net8.0\fc-ass.deps.json
+E:\cc\ass\DotNet\fc-ass\fc-ass\bin\Debug\net8.0\fc-ass.runtimeconfig.json
+E:\cc\ass\DotNet\fc-ass\fc-ass\bin\Debug\net8.0\fc-ass.dll
+E:\cc\ass\DotNet\fc-ass\fc-ass\bin\Debug\net8.0\fc-ass.pdb
+E:\cc\ass\DotNet\fc-ass\fc-ass\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\cc\ass\DotNet\fc-ass\fc-ass\obj\Debug\net8.0\fc-ass.csproj.AssemblyReference.cache
+E:\cc\ass\DotNet\fc-ass\fc-ass\obj\Debug\net8.0\fc-ass.GeneratedMSBuildEditorConfig.editorconfig
+E:\cc\ass\DotNet\fc-ass\fc-ass\obj\Debug\net8.0\fc-ass.AssemblyInfoInputs.cache
+E:\cc\ass\DotNet\fc-ass\fc-ass\obj\Debug\net8.0\fc-ass.AssemblyInfo.cs
+E:\cc\ass\DotNet\fc-ass\fc-ass\obj\Debug\net8.0\fc-ass.csproj.CoreCompileInputs.cache
+E:\cc\ass\DotNet\fc-ass\fc-ass\obj\Debug\net8.0\fc-ass.csproj.Up2Date
+E:\cc\ass\DotNet\fc-ass\fc-ass\obj\Debug\net8.0\fc-ass.dll
+E:\cc\ass\DotNet\fc-ass\fc-ass\obj\Debug\net8.0\refint\fc-ass.dll
+E:\cc\ass\DotNet\fc-ass\fc-ass\obj\Debug\net8.0\fc-ass.pdb
+E:\cc\ass\DotNet\fc-ass\fc-ass\obj\Debug\net8.0\fc-ass.genruntimeconfig.cache
+E:\cc\ass\DotNet\fc-ass\fc-ass\obj\Debug\net8.0\ref\fc-ass.dll

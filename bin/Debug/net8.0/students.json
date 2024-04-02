@@ -1,0 +1,55 @@
+[
+  {
+    "FirstName": "a",
+    "MiddleName": "s",
+    "LastName": "d",
+    "StudentID": "123-456-789",
+    "JoiningBatch": "1",
+    "Department": 1,
+    "Degree": 2,
+    "SemestersAttended": null
+  },
+  {
+    "FirstName": "a",
+    "MiddleName": "s",
+    "LastName": "d",
+    "StudentID": "123",
+    "JoiningBatch": "12",
+    "Department": 0,
+    "Degree": 0,
+    "SemestersAttended": [
+      {
+        "SemesterName": null,
+        "Year": null,
+        "Courses": [
+          {
+            "CourseID": "ENG 201",
+            "CourseName": "English Literature",
+            "TeacherName": "Prof. Johnson",
+            "TotalCredits": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "FirstName": "a",
+    "MiddleName": "s",
+    "LastName": "d",
+    "StudentID": "123",
+    "JoiningBatch": "12",
+    "Department": 0,
+    "Degree": 0,
+    "SemestersAttended": []
+  },
+  {
+    "FirstName": "a",
+    "MiddleName": "e",
+    "LastName": "q",
+    "StudentID": "456",
+    "JoiningBatch": "45",
+    "Department": 0,
+    "Degree": 0,
+    "SemestersAttended": []
+  }
+]
